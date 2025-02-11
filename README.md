@@ -119,5 +119,7 @@ print("Churn Prediction:", "Churn" if prediction[0] == 1 else "Not Churn")
 
 ## 👨‍💻 Author
 
-- **Rocky Ranjan**
-- 📧 rocky.ranjan07\@gmail.com
+- **Akansha Kashyap**
+- akanshakashyap091@gmail.com
+
+- 
